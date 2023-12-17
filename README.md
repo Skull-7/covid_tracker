@@ -3,7 +3,7 @@
 <br>1.Global Covid-19 Data Link-https://disease.sh/v3/covid-19/all</br>
 <br>2.Country-wise Covid-19 Data-https://disease.sh/v3/covid-19/countries</br>
 <br>The first API link is dedicated to the initial page, where a holistic overview of Covid-19 data is presented, complemented by an informative pie chart. The second API link is specifically designed for acquiring country-wise data, which is then seamlessly integrated into the third page.</br>
-<br><h1>Screenshorts</h1></br>
+<br><h1>Screenshots</h1></br>
 <img src="https://github.com/Skull-7/covid_tracker/assets/109094090/ab898250-840b-46e2-8dac-255aa3cd3068" alt="photo_2023-12-17_00-28-29" width="300"/>
 <br><h5><b>Splash Screen for the App with a 3-Second Disappearance</b></h5></br>
 <img src="https://github.com/Skull-7/covid_tracker/assets/109094090/e3cdc5b6-63f5-416b-ae6e-19baeca187bc" alt="photo_2023-12-17_00-28-30 (2)" width="300"/>
